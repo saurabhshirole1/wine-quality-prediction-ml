@@ -196,7 +196,7 @@ streamlit run app/final_app.py
 
 ## 👤 Author
 
-**Saurabh**  
+**Saurabh Shirole**  
 Machine Learning & Data Science Enthusiast  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/saurabhshirole1/) | ✍️ [Medium Blogs](https://medium.com/@saurabhshirole1)
