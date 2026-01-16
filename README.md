@@ -144,7 +144,7 @@ wine-quality-prediction/
 ├── app
 │   └── final_app.py       # Streamlit application
 ├── script         
-│   └── final_model.py   # Model training & evaluation code
+│   └── final_model.py     # Model training & evaluation code
 ├── requirements.txt       # Project dependencies
 ├── README.md              # Project documentation
 │
